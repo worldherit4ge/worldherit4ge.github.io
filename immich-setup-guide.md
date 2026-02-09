@@ -1,3 +1,9 @@
+---
+layout: page
+title: Immich + Tailscale 部署說明
+permalink: /immich-tailscale/
+---
+
 # Immich + Tailscale 部署說明
 
 本文說明目前這台機器上 Immich（照片伺服器）與 Tailscale（零設定 VPN）的部署方式、檔案結構與操作流程，方便日後維護與移機。
